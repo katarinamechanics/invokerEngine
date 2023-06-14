@@ -1,0 +1,23 @@
+﻿  Entity.cpp
+  EntityController.cpp
+  GuiObject.cpp
+  Main.cpp
+  StateController.cpp
+  Tile.cpp
+  TileController.cpp
+C:\Users\mattb\Dropbox\actualwork\SHEPLUSPLUS\New folder\sfml test\sfml test\Core\src\TileController.cpp(53,72): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mattb\Dropbox\actualwork\SHEPLUSPLUS\New folder\sfml test\sfml test\Core\src\TileController.cpp(53,57): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating code
+  11 of 1831 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    25 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  sfml test.vcxproj -> C:\Users\mattb\Dropbox\actualwork\SHEPLUSPLUS\New folder\sfml test\Release\sfml test.exe

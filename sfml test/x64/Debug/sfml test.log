@@ -1,0 +1,17 @@
+﻿  imgui-SFML.cpp
+C:\Users\mattb\Dropbox\actualwork\SHEPLUSPLUS\New folder\sfml test\include\imgui\imgui-SFML.cpp(567,65): warning C4244: 'argument': conversion from 'const unsigned int' to 'float', possible loss of data
+C:\Users\mattb\Dropbox\actualwork\SHEPLUSPLUS\New folder\sfml test\include\imgui\imgui-SFML.cpp(567,47): warning C4244: 'argument': conversion from 'const unsigned int' to 'float', possible loss of data
+C:\Users\mattb\Dropbox\actualwork\SHEPLUSPLUS\New folder\sfml test\include\imgui\imgui-SFML.cpp(570,67): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\mattb\Dropbox\actualwork\SHEPLUSPLUS\New folder\sfml test\include\imgui\imgui-SFML.cpp(570,48): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Entity.cpp
+  PerlinGen.cpp
+C:\Users\mattb\Dropbox\actualwork\SHEPLUSPLUS\New folder\sfml test\sfml test\PerlinGen.cpp(34,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mattb\Dropbox\actualwork\SHEPLUSPLUS\New folder\sfml test\sfml test\PerlinGen.cpp(37,83): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\mattb\Dropbox\actualwork\SHEPLUSPLUS\New folder\sfml test\sfml test\PerlinGen.cpp(37,59): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\mattb\Dropbox\actualwork\SHEPLUSPLUS\New folder\sfml test\sfml test\PerlinGen.cpp(37,37): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  Generating Code...
+C:\Users\mattb\Dropbox\actualwork\SHEPLUSPLUS\New folder\sfml test\include\imgui\imgui_widgets.cpp : fatal error C1090: PDB API call failed, error code '3': C:\Users\mattb\Dropbox\actualwork\SHEPLUSPLUS\New folder\sfml test\sfml test\x64\Debug\vc143.pdb

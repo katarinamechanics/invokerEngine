@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e6ab72c6-523c-4bc3-bbe3-57c3dcf55317": {
+      "ProjectGuid": "e6ab72c6-523c-4bc3-bbe3-57c3dcf55317",
+      "DisplayName": "sfml test",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

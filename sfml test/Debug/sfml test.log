@@ -1,0 +1,4 @@
+﻿  PerlinGen.cpp
+C:\Users\mattb\Dropbox\actualwork\SHEPLUSPLUS\New folder\sfml test\sfml test\Core\PerlinGen.cpp(96,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mattb\Dropbox\actualwork\SHEPLUSPLUS\New folder\sfml test\sfml test\Core\PerlinGen.cpp(102,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  sfml test.vcxproj -> C:\Users\mattb\Dropbox\actualwork\SHEPLUSPLUS\New folder\sfml test\Debug\sfml test.exe
